@@ -1,0 +1,17 @@
+C:\Users\Family\source\repos\RIFReader\RIFReader\bin\Debug\net7.0-windows\RIFReader.exe
+C:\Users\Family\source\repos\RIFReader\RIFReader\bin\Debug\net7.0-windows\RIFReader.deps.json
+C:\Users\Family\source\repos\RIFReader\RIFReader\bin\Debug\net7.0-windows\RIFReader.runtimeconfig.json
+C:\Users\Family\source\repos\RIFReader\RIFReader\bin\Debug\net7.0-windows\RIFReader.dll
+C:\Users\Family\source\repos\RIFReader\RIFReader\bin\Debug\net7.0-windows\RIFReader.pdb
+C:\Users\Family\source\repos\RIFReader\RIFReader\obj\Debug\net7.0-windows\RIFReader.csproj.AssemblyReference.cache
+C:\Users\Family\source\repos\RIFReader\RIFReader\obj\Debug\net7.0-windows\RIFReader.Form1.resources
+C:\Users\Family\source\repos\RIFReader\RIFReader\obj\Debug\net7.0-windows\RIFReader.csproj.GenerateResource.cache
+C:\Users\Family\source\repos\RIFReader\RIFReader\obj\Debug\net7.0-windows\RIFReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Family\source\repos\RIFReader\RIFReader\obj\Debug\net7.0-windows\RIFReader.AssemblyInfoInputs.cache
+C:\Users\Family\source\repos\RIFReader\RIFReader\obj\Debug\net7.0-windows\RIFReader.AssemblyInfo.cs
+C:\Users\Family\source\repos\RIFReader\RIFReader\obj\Debug\net7.0-windows\RIFReader.csproj.CoreCompileInputs.cache
+C:\Users\Family\source\repos\RIFReader\RIFReader\obj\Debug\net7.0-windows\RIFReader.dll
+C:\Users\Family\source\repos\RIFReader\RIFReader\obj\Debug\net7.0-windows\refint\RIFReader.dll
+C:\Users\Family\source\repos\RIFReader\RIFReader\obj\Debug\net7.0-windows\RIFReader.pdb
+C:\Users\Family\source\repos\RIFReader\RIFReader\obj\Debug\net7.0-windows\RIFReader.genruntimeconfig.cache
+C:\Users\Family\source\repos\RIFReader\RIFReader\obj\Debug\net7.0-windows\ref\RIFReader.dll
